@@ -1,4 +1,4 @@
-## Olá! Eu sou Eduardo Mendes e tenho 21 anos.
+## Olá! Eu sou Eduardo Mendes e tenho 22 anos.
 
 Sou um desenvolvedor apaixonado por tecnologia. Comecei a aprender Java desde novo desenvolvendo plugins para Minecraft e, desde então, venho aprimorando minhas habilidades. Gosto de encarar novos desafios, melhorar continuamente e contribuir para projetos que fazem a diferença.
 
