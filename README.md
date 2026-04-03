@@ -43,8 +43,8 @@ Minha jornada na programação começou com Java, criando plugins para Minecraft
 
 ## Alguns projetos em destaque
 
+- [EncontreiBarato](https://github.com/imduuh/EncontreiBarato) - plataforma para encontrar e comparar preços de produtos (em produção).
 - [PracticeGames](https://github.com/imduuh/PracticeGames) - plugin em Java para Minecraft.
-- [Essenciais](https://github.com/imduuh/Essenciais) - plugin com funcionalidades essenciais para servidor.
 - [ContactsWithWhatsApp](https://github.com/imduuh/ContactsWithWhatsApp) - automação para verificar contatos com WhatsApp a partir de CSV.
 - [WhatsApp-AutoSaveContacts](https://github.com/imduuh/WhatsApp-AutoSaveContacts) - bot para salvar contatos automaticamente.
 
